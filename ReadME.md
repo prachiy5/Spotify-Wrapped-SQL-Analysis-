@@ -452,7 +452,9 @@ All SQL queries are included in the **`spotify_wrapped_analysis.sql`** file.
 
 ## 📊 Results  
 
-This analysis successfully mimics a personalized **Spotify Wrapped** experience by uncovering meaningful patterns and habits in my music streaming history for **2023**.  
+This analysis successfully mimics a personalized **Spotify Wrapped** experience by uncovering meaningful patterns and habits in my music streaming history for **2023**. 
+
+Check out my Medium blog for all the details: [My 2023 Spotify Wrapped: A SQL-Powered Musical Journey ](https://medium.com/@yadavprachi5898/my-2023-spotify-wrapped-a-sql-powered-musical-journey-a9e759bb35ba)
 
 ---
 
